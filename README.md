@@ -43,4 +43,4 @@ studyplan-ai/
 - Developed as a Web Development Final Exam Project for Web Development class 23AI2002
 
 ## Author
-ItsTheDemiGod | B.Tech AI & ML | Batch 2023–2027
+Nithya Maria Mathew | B.Tech AI & ML | Batch 2023–2027
